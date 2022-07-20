@@ -1,2 +1,2 @@
 # deep-learning-training
-This repository has project has focused on learning deep learning concepts.
+This repository has project that focuses on learning deep learning concepts by introducing tensorflow.
